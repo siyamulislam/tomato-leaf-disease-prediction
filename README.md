@@ -1,8 +1,8 @@
 # tomato-leaf-disease-prediction
 
-# pip install requirments.txt
-# run Example.py
-# run leaf.py
+# 1 pip install requirments.txt
+# 2 run Example.py
+# 3 run leaf.py
 
 exjoy with flask server
 
